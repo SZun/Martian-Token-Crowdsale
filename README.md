@@ -47,6 +47,22 @@ KaseiCoin will be a fungible token that’s ERC-20 compliant. You’ll launch a 
 #### Deployed intance in Remix IDE
 ![Deployed Instance](./assets/images/deployed_instance.png)
 
+### Buying Token
+
+#### Buying a KaseiCoin token
+![Buying Token](./assets/images/buying.png)
+
+#### Address Balance after buying KasieCoin token
+![Address Balance](./assets/images/balance.png)
+
+### Supply & Funds Raised
+
+#### Supply of KaseiCoin Tokens
+![Token Suppy](./assets/images/supply.png)
+
+#### Amount of Wei Raised by Crowdsale Contract
+![Wei Raised](./assets/images/wei_raised.png)
+
 ## Getting Started
 
 1. Open the Remix IDE here: [Remix IDE](https://remix.ethereum.org/)
