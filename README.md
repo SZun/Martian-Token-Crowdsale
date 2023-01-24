@@ -31,12 +31,21 @@ KaseiCoin will be a fungible token that’s ERC-20 compliant. You’ll launch a 
 
 #### Meta Mask Connected to Ganache Network
 ![Ganache/Metamask Connected](./assets/images/ganache_metamask_connected.png)
+![Ganache/Metamask Connected](./assets/images/ganache_metamask_connected_2.png)
 
 #### Switching to the Meta Mask Injected Provider in the Remix IDE
 ![Injected Provider](./assets/images/injected_provider.png)
 
 #### Remix IDE connected to Meta Mask and Local Ganache Network
 ![Injected Provider Connected](./assets/images/connected.png)
+
+### Deployment
+
+#### Confirming deployment transaction with MetaMask
+![Deployment Confirmation](./assets/images/deployment_confirmation.png)
+
+#### Deployed intance in Remix IDE
+![Deployed Instance](./assets/images/deployed_instance.png)
 
 ## Getting Started
 
