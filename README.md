@@ -10,14 +10,30 @@ KaseiCoin will be a fungible token that’s ERC-20 compliant. You’ll launch a 
 
 ## Evaluation Evidence
 
-### KaseiCoin Token Contract Compilation
+### Contract Compilation
+
+#### KaseiCoin Token Contract Compilation
 ![KaseiCoin Token Contract Compiled](./assets/images/kasecoin_compiled.png)
 
-### KaseiCoinCrowdsale Contract Compilation
+#### KaseiCoinCrowdsale Contract Compilation
 ![KaseiCoinCrowdsale Contract Compiled](./assets/images/kasecoincrowdsale_compiled.png)
 
-### KaseiCoinCrowdsaleDeployer Contract Compilation
+#### KaseiCoinCrowdsaleDeployer Contract Compilation
 ![KaseiCoinCrowdsaleDeployer Contract Compiled](./assets/images/kasecoincrowdsaledeployer_compiled.png)
+
+### Local Blockchain
+
+#### Ganache Credentials
+![Ganache Credentials](./assets/images/ganache_credentials.png)
+
+#### Ganache/Meta Mask Network Setup
+![Ganache/Metamask Credentials](./assets/images/ganache_metamask_network.png)
+
+#### Meta Mask Connected to Ganache Network
+![Ganache/Metamask Connected](./assets/images/ganache_metamask_connected.png)
+
+#### Switching to the Meta Mask Injected Provider in the Remix IDE
+![Injected Provider](./assets/images/injected_provider.png)
 
 ## Getting Started
 
