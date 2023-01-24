@@ -1,23 +1,33 @@
+// Solidity compiler version
 pragma solidity ^0.5.0;
 
+//  Import the KaseiCoint contract following contracts from the OpenZeppelin library:
+//    * `Crowdsale`
+//    * `MintedCrowdsale`
 import "./KaseiCoin.sol";
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/crowdsale/Crowdsale.sol";
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/crowdsale/emission/MintedCrowdsale.sol";
 
+// KaseiCoinCrowdsale contract, which inhertis from Crowdsale and MintedCrowdsale
 contract KaseiCoinCrowdsale is Crowdsale, MintedCrowdsale {
     
+    // Constructor that takes in uint rate, address payable wallet, KaseiCoin token and passes them on to the Crowdsale constructor
     constructor(
         uint rate, 
         address payable wallet, 
         KaseiCoin token
     ) public Crowdsale(rate, wallet, token) {}
+
 }
 
+// KaseiCoinCrowdsaleDeployer contract
 contract KaseiCoinCrowdsaleDeployer {
 
+    // Instance variables
     address public kasei_token_address;
     address public kasei_crowdsale_address;
 
+    // Constructor that takes in string name memory and string name symbol
     constructor(
        string memory name,
        string memory symbol,
