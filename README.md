@@ -66,7 +66,7 @@ KaseiCoin will be a fungible token that’s ERC-20 compliant. You’ll launch a 
 ## Getting Started
 
 1. Open the Remix IDE here: [Remix IDE](https://remix.ethereum.org/)
-2. Copy and paste the code from [KaseiCoin.sol](https://github.com/SZun/Martian-Token-Crowdsale/blob/main/contracts/KaseiCoin.sol), [KaseiCoinCrowdsale.sol](https://github.com/SZun/Martian-Token-Crowdsale/blob/main/contracts/KaseiCoinCrowdsale.sol) into files in the Remix IDE.
+2. Copy and paste the code from [KaseiCoin.sol](https://github.com/SZun/Martian-Token-Crowdsale/blob/main/contracts/KaseiCoin.sol), [KaseiCoinCrowdsale.sol](https://github.com/SZun/Martian-Token-Crowdsale/blob/main/contracts/KaseiCoinCrowdsale.sol), [KaseiCoinCrowdsaleDeployer.sol](https://github.com/SZun/Martian-Token-Crowdsale/blob/main/contracts/KaseCoinCrowdsaleDeployer.sol) into files in the Remix IDE.
 3. Compile the contracts
 4. Deploy the contracts
 
