@@ -16,7 +16,7 @@ KaseiCoin will be a fungible token that’s ERC-20 compliant. You’ll launch a 
 ### KaseiCoinCrowdsale Contract Compilation
 ![KaseiCoinCrowdsale Contract Compiled](./assets/images/kasecoincrowdsale_compiled.png)
 
-### KaseiCoinCrowdsaleDeployer Token Contract Compilation
+### KaseiCoinCrowdsaleDeployer Contract Compilation
 ![KaseiCoinCrowdsaleDeployer Contract Compiled](./assets/images/kasecoincrowdsaledeployer_compiled.png)
 
 ## Getting Started
