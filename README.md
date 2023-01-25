@@ -53,7 +53,9 @@ KaseiCoin will be a fungible token that’s ERC-20 compliant. You’ll launch a 
 ![Buying Token](./assets/images/buying.png)
 
 #### Address Balance after buying KasieCoin token
-![Address Balance](./assets/images/balance.png)
+![Address Balance](./assets/images/balance_2.png)
+![Address Balance](./assets/images/balance_1.png)
+
 
 ### Supply & Funds Raised
 
